@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.looqbox.pkmnmanager.PkmnManagerApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-02T06:31:38" hostname="LINKED-PC" time="0.657">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.looqbox.pkmnmanager.PkmnManagerApplicationTests" time="0.657"/>
+  <system-out><![CDATA[03:31:36.409 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.looqbox.pkmnmanager.PkmnManagerApplicationTests]: PkmnManagerApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+03:31:36.494 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.looqbox.pkmnmanager.PkmnManagerApplication for test class com.looqbox.pkmnmanager.PkmnManagerApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.4)
+
+2023-10-02T03:31:36.783-03:00  INFO 27708 --- [    Test worker] c.l.p.PkmnManagerApplicationTests        : Starting PkmnManagerApplicationTests using Java 17.0.8.1 with PID 27708 (started by Linked in C:\Users\Linked\Documents\Projetos\Desafios\pkmn-manager)
+2023-10-02T03:31:36.784-03:00  INFO 27708 --- [    Test worker] c.l.p.PkmnManagerApplicationTests        : No active profile set, falling back to 1 default profile: "default"
+2023-10-02T03:31:38.053-03:00  INFO 27708 --- [    Test worker] c.l.p.PkmnManagerApplicationTests        : Started PkmnManagerApplicationTests in 1.432 seconds (process running for 2.316)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
